@@ -1,0 +1,82 @@
+.forthpart-div{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 600px;
+    background-image: url(../img/cardriving.jpg);
+    padding-bottom: 30px; 
+    margin-left: 40px;
+    padding-left: 30px;
+    width: 60%;
+    border-radius: 10px;
+    
+    margin-top: 40px;
+
+    
+    
+    
+}  
+.forthpart-h1{
+    color:white;
+
+}
+.forthpart-b1{
+     background-color: rgb(0, 110, 255);
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+.forthpart-b1:hover{
+    background-color:  rgba(0,81,255,0.952);
+}
+.forthpart-b2{  background-color: white;
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    color:black;
+    text-decoration: none;
+}
+.forthpart-seconddiv{
+    height: 600px;
+    width:30%;
+    background-image: url(../img/carimg.avif);
+    background-position: top;
+    background-size: cover;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+     padding-bottom: 30px; 
+    margin-left: 40px;
+    padding-left: 30px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.forthpart-second-b1{
+     background-color: rgb(0, 110, 255);
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+
+}
+.forthpart-second-b1:hover{
+     background-color:  rgba(0,81,255,0.952);
+}
+.forthpart-maindiv{
+    
+    
+    
+    display:flex ;
+
+}
+.map{
+    
+    height: 529px;
+    background-image: url(../img/map.png);
+    margin: 40px;
+    border-radius: 10px;
+}
+

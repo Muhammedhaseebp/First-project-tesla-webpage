@@ -1,0 +1,97 @@
+.body1{
+    height: 450px;
+    
+    background-image:url(../img/car.jpg);
+    background-size: cover;
+    background-position:center;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+
+}
+.top-buttons{
+    display:flex;
+}
+
+.button1{
+    width:200px;
+    height: 40px;
+    margin-right:5px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(0, 110, 255);
+    
+    
+    
+}
+.button1:hover{
+    background-color: rgba(0, 81, 255, 0.952);
+}
+
+
+.button2{
+    width:200px;
+    height: 40px;
+    border:none;
+    border-radius: 5px;
+    color:black;
+    text-decoration: none;
+
+    
+
+    
+}
+
+
+.button3{
+    width:30px;
+    height: 30px;
+}
+.button4{
+    width:30px;
+    height: 30px;
+}
+.body1h{
+
+    font-size:70px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top:10PX;
+    color: white;
+    
+}
+.p1{
+    font-size:20px;
+    margin-top: 0px;
+    color: white;
+}
+.body2{
+    
+    width: 400px;
+    height: 260px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.small-div{
+    position:absolute;
+    display: flex;
+    bottom: 40px;
+    right: 50%;
+    z-index:30;
+    
+    
+}
+.small-div1{
+    
+    background-color: white;
+    width: 12px;
+    height: 12px;
+    margin:5px;
+    border-radius: 50%;
+    
+}
